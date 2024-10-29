@@ -1,2 +1,2 @@
-# img_processing_homework
-Image Processing Repository
+# Image Processing task / Задача обработки изображений
+Этот репозиторий используется для задач обработки изображений
